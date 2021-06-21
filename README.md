@@ -8,3 +8,14 @@ A production-ready function in PHP that sums the numbers in a file and outputs d
 | Operation | Result  |
 | :---:   | :-: |
 | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/a.png?raw=true) | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/a-result.png?raw=true) |
+     
+| Operation  | Result  | 
+| :------------ |:---------------:| 
+| ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/a.png?raw=true)     | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/a-result.png?raw=true) | 
+| ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/b.png?raw=true)     | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/b-result.png?raw=true)        |  
+| ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/c.png?raw=true) | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/c-result.png?raw=true)        | 
+| ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/d.png?raw=true) | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/d-result.png?raw=true)        | 
+| ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/e.png?raw=true) | ![alt text](https://github.com/mohamednourdine/php-file-content-summation/blob/main/results/e-result.png?raw=true)        | 
+
+
+
