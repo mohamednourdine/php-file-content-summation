@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>LoveToKnow Media Application</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+
+</head>
+
+<body>
+
+  <div class="nav-header">
+    <img src="./files/logo.jpeg" alt="LoveToKnow Media Application">
+    <h2>LoveToKnow Media Application</h2>
+    <p class="lead">File: <b>Upload the Text File</b></p>
+  </div>
+
+  <!-- .navbar-header .new-logo -->
+
+  <form action="core.php" method="post" class="form"  enctype="multipart/form-data">
+
+    <div class="file-upload">
+      <div class="file-select">
+        <div class="file-select-button" id="fileName">Choose File</div>
+        <div class="file-select-name" id="noFile">No file chosen...</div>
+        <input type="file" name="file" id="chooseFile">
+      </div>
+    </div>
+    
+    <div class="row">
+      <pre id="fileDisplayArea" style="display: none;"><pre></pre>
+    </div>
+    
+    
+    <button type="submit" id="calculateForm" style="display: none;" class="btn">Calculate Sum</button>
+
+
+    <div class="row">
+        <span></span>
+    </div>
+  </form>
+
+
+  <script  src="./script.js"></script>
+
+</body>
+
+</html>
