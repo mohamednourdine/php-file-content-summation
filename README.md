@@ -27,8 +27,12 @@ A production-ready function in PHP that sums the numbers in a file and outputs d
     B.txt
     50
 
-    The file E.txt is found in the list of files of the text document. The application will detect it and stop the operation since it will result in an infinite calculation loop. The result of the application is shown above.
+    The file E.txt is found in the list of files of the text document. 
+    The application will detect it and stop the operation since it will 
+    result in an infinite calculation loop. 
+    The result of the application is shown above.
 
 
-    ➔ In order to execute this project on any server, all the files should be found in the same directory name files in the root of the project.
+    ➔ In order to execute this project on any server, all the files should 
+    be found in the same directory name files in the root of the project.
     Please contact me for any kind of clarification if need be.
